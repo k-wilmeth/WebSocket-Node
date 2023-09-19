@@ -1,6 +1,6 @@
 # WebSocket-Node
 
-Showing implementations of WebSockets(server-side) with a Node Express server   
+Showing implementations of Socket.io(server-side) with a Node Express server   
 The pair project that goes along with this is [WebSocket-React](https://github.com/k-wilmeth/WebSocket-React)
 
 The app code is in [`index.js`](./index.js)   
